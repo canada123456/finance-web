@@ -95,7 +95,7 @@
                                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
                                           stroke-width="2" d="m19 9-7 7-7-7"/>
                                 </svg>
-                            </a>
+                            </a>+
                         </div>
                     </div>
                 </div>
@@ -145,7 +145,7 @@
                 </div>
             </section>
             <section id="about-us" class="px-6 mt-5 bg-white dark:bg-gray-900">
-                <h1 class="w-full text-center text-3xl font-extrabold mt-4 pt-6">About the FCA</h1>
+                <h1 class="w-full text-center text-3xl font-extrabold mt-4 pt-6">About the FCA Recovery Solutions</h1>
                 <div
                     class="gap-16 items-center pb-8 pt-4 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-3 lg:py-8 lg:px-6">
                     <div class="col-span-2 font-medium text-gray-900 sm:text-lg dark:text-gray-400">
