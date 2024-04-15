@@ -5,11 +5,7 @@
         class="w-full relative sm:flex sm:justify-center sm:items-center min-h-screen bg-dots-darker bg-center bg-gray-100 dark:bg-dots-lighter dark:bg-gray-900 selection:bg-red-500 selection:text-white">
         <div class="max-w-8xl bg-gray-100">
             <section class="h-[80vh] bg-white dark:bg-gray-900 rounded-[1rem]">
-                <div
-                    class="grid sm:grid-cols-1 h-full gap-16 items-center py-8 w-full px-4 mx-0  lg:grid lg:grid-cols-2 lg:py-16 lg:px-6"
-                    style="background-image: url('{{asset('images/courtsymbol.jpg')}}'); background-size: cover; background-position: center; background-repeat: no-repeat;">
-                    <div class="bg-opacity-75 my-auto p-2 bg-white font-light sm:text-lg dark:text-gray-400 rounded-[0.5rem]">
-                        <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">
+                 <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">
                             Welcome to Cryptocurrency Recovery Solutions
                         </h2>
                         <hr class="border-b-4 border-red-600">
@@ -38,19 +34,7 @@
                         <p class="py-2 mb-3 font-normal text-gray-700 dark:text-gray-400">We aim to support a healthy
                             and
                             successful financial
-                            system, so consumers get a fair deal.</p>
-                        <div class="flex justify-end">
-                            <a href="#about-us" onclick="scrollToDiv(event)"
-                               class="inline-flex px-3 py-2 my-4 text-sm font-medium text-center text-white bg-red-700 rounded-lg hover:bg-red-800 focus:ring-4 focus:outline-none focus:ring-red-300 dark:bg-red-600 dark:hover:bg-red-700 dark:focus:ring-red-800">
-                                Read more
-                                <svg class="w-6 h-6 pt-1 text-white dark:text-white" aria-hidden="true"
-                                     xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
-                                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
-                                          stroke-width="2" d="m19 9-7 7-7-7"/>
-                                </svg>
-                            </a>
-                        </div>
-                    </div>
+                       
                     <div
                         class="sm:my-4 bg-white my-4 max-w-sm p-5 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
                         <div>
@@ -82,11 +66,7 @@
                             </h5>
                         </div>
                         <hr class="border-b-4 border-red-600 my-4">
-                        <p class="py-2 mb-3 font-normal text-gray-700 dark:text-gray-400">We aim to support a healthy
-                            and
-                            successful financial
-                            system, so consumers get a fair deal.</p>
-                        <div class="flex justify-end">
+                    class="flex justify-end">
                             <a href="#reviews" onclick="scrollToDiv(event)"
                                class="inline-flex px-3 py-2 my-4 text-sm font-medium text-center text-white bg-red-700 rounded-lg hover:bg-red-800 focus:ring-4 focus:outline-none focus:ring-red-300 dark:bg-red-600 dark:hover:bg-red-700 dark:focus:ring-red-800">
                                 Read more
@@ -110,12 +90,7 @@
                 </div>
                 <div class="lg:grid gap-10 lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 lg:py-8 px-5">
                     <div
-                        class="bg-white max-w-sm my-4 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-                        <div>
-                            <img class="w-full rounded-t-lg h-2/3" src="{{asset('images/about-image-4.png')}}">
-                        </div>
-                        <div class="p-5">
-                            <p class="py-2 mb-3 font-normal text-2xl text-gray-700 dark:text-gray-400">Making Buy Now
+                        class=y-2 mb-3 font-normal text-2xl text-gray-700 dark:text-gray-400">Making Buy Now
                                 Pay later terms clearer</p>
                             <hr class="border-b-4 border-red-600 my-4">
                         </div>
@@ -136,13 +111,6 @@
                         <div>
                             <img class="w-full rounded-t-lg h-2/3" src="{{asset('images/about-6-img.png')}}">
                         </div>
-                        <div class="p-5">
-                            <p class="py-2 mb-3 font-normal text-2xl text-gray-700 dark:text-gray-400">Cracking down on
-                                misleading credit brokers</p>
-                            <hr class="border-b-4 border-red-600 my-4">
-                        </div>
-                    </div>
-                </div>
             </section>
             <section id="about-us" class="px-6 mt-5 bg-white dark:bg-gray-900">
                 <h1 class="w-full text-center text-3xl font-extrabold mt-4 pt-6">About the FCA Recovery Solutions</h1>
@@ -164,16 +132,7 @@
                             <li>prudentially supervising around 44,000 firms</li>
                             <li>setting specific standards for around 17,000 firms</li>
                         </ul>
-                        <p class="mb-4">
-                            We focus on reducing and preventing serious harm, setting higher standards and promoting
-                            competition and positive change.
-                        </p>
-                        <p class="mb-4">
-                            We were established on 1 April 2013, taking over conduct and relevant prudential regulation
-                            from the Financial Services Authority (FSA).
-                        </p>
-                        <p class="mb-4">
-                            We work across the UK with a head office in London, offices in Leeds and Edinburgh and
+                    ss the UK with a head office in London, offices in Leeds and Edinburgh and
                             colleagues in Belfast and Cardiff.</p>
                     </div>
                     <div class="mt-8">
@@ -181,8 +140,7 @@
                              src="{{asset('images/about-us-first.jpg')}}">
                     </div>
                 </div>
-                <div
-                    class="gap-16 items-center px-6 mx-auto max-w-screen-xl lg:px-6">
+                  class="gap-16 items-center px-6 mx-auto max-w-screen-xl lg:px-6">
                     <h2 class="mb-4 text-xl tracking-tight font-extrabold text-gray-900 dark:text-white">Why we do
                         it</h2>
                     <p class="mb-1">Financial services play a critical role in the lives of everyone in the UK, from
@@ -211,16 +169,7 @@
                             <li>protect consumers from bad conduct</li>
                             <li>protect the integrity of the UK financial system</li>
                             <li>promote effective competition in the interests of consumers</li>
-                        </ul>
-                        <p class="mb-4">Since 2023, we have a secondary objective to facilitate the international
-                            competitiveness and growth of the UK economy in the medium to long term (subject to
-                            alignment with international standards).</p>
-                        <p class="mb-4">
-                            We're an independent public body funded entirely by the fees we charge regulated firms. Our
-                            role and objectives are primarily defined by the Financial Services and Markets Act 2000
-                            (FSMA) and we’re accountable to the Treasury, which is responsible for the UK’s financial
-                            system, and to Parliament.
-                        </p>
+                   
                         <p class="mb-4">
                             To advance our objectives, we work with the Prudential Regulation Authority (PRA), the
                             prudential regulator of around 1,500 banks, building societies, credit unions, insurers and
@@ -236,14 +185,7 @@
                             complexity of firms.</p>
                     </div>
                 </div>
-            </section>
-            <section id="recovery-center" class="px-6 mt-20 bg-white dark:bg-gray-900">
-                <h1 class="mt-4 pt-6 text-center mb-0 text-3xl font-extrabold">Recovery Center</h1>
-                <p class="ml-6 text-md pt-2"> We stand as your beacon of hope in the ever-evolving world of
-                    cryptocurrencies. In a realm where
-                    digital assets traverse intricate networks and cryptographic landscapes, we have established
-                    ourselves as the foremost authority in rescuing and restoring your lost, stolen, or inaccessible
-                    crypto assets.</p>
+            <o assets.</p>
 
                 <div
                     class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-3 lg:px-6 md:grid-cols-2 sm:grid-cols-1 sm:mx-auto">

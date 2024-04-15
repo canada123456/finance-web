@@ -4,27 +4,6 @@
     <div
         class="relative sm:flex sm:justify-center sm:items-center min-h-screen bg-dots-darker bg-center bg-white dark:bg-dots-lighter dark:bg-gray-900 selection:bg-red-500 selection:text-white">
         <div class="w-full lg:mx-8">
-            <section id="recovery-center" class="mt-10 text-gray-900">
-                <div class="ml-4 font-light sm:text-lg dark:text-gray-400">
-                    <h2 class="mb-4 text-4xl tracking-tight font-extrabold dark:text-white">
-                        Fees and levies
-                    </h2>
-                    <hr class="border-2">
-                    <p class="my-4 font-medium">
-                        Find out about the fees we charge and what they cover, and the levies we collect for
-                        organisations that are part of the regulatory system.</p>
-                </div>
-            </section>
-            <section id="cards" class="mt-5 pb-5">
-                <div class="ml-12">
-                    <p class="mb-2">We are independent of Government. To finance our work we charge fees to:</p>
-                    <ul class="list-disc ml-6">
-                        <li>
-                            the firms we authorise
-                        </li>
-                        <li>
-                            some other bodies such as recognised investment exchanges or registered firms
-                        </li>
                     </ul>
                 </div>
                 <div class="ml-12 my-5">
@@ -56,20 +35,7 @@
                                 </svg>
                             </a>
                         </li>
-                        <li>
-                            <a class="text-blue-700 underline my-1 inline-flex">Prudential Regulation Authority
-                                <svg class="w-4 h-4 mt-1 text-gray-900 ml-1" aria-hidden="true"
-                                     xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
-                                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
-                                          stroke-width="2"
-                                          d="M18 14v4.8a1.2 1.2 0 0 1-1.2 1.2H5.2A1.2 1.2 0 0 1 4 18.8V7.2A1.2 1.2 0 0 1 5.2 6h4.6m4.4-2H20v5.8m-7.9 2L20 4.2"/>
-                                </svg>
-                            </a>
-                        </li>
-                        <li>
-                            <a class="text-blue-700 underline  my-1 inline-flex">Financial Ombudsman Service
-                                <svg class="w-4 h-4 mt-1 text-gray-900 ml-1" aria-hidden="true"
-                                     xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                      0/svg" fill="none" viewBox="0 0 24 24">
                                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
                                           stroke-width="2"
                                           d="M18 14v4.8a1.2 1.2 0 0 1-1.2 1.2H5.2A1.2 1.2 0 0 1 4 18.8V7.2A1.2 1.2 0 0 1 5.2 6h4.6m4.4-2H20v5.8m-7.9 2L20 4.2"/>
